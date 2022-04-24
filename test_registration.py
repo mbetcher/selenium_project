@@ -3,7 +3,7 @@ import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
-from selenium.webdriver.support.ui import Select
+
 
 # Dane testowe
 email = "test.pl"
@@ -24,7 +24,7 @@ class RegistrationTest(unittest.TestCase):
         driver = self.driver
 
         # Akceptacja cookies
-        driver.find_element(By.CSS_SELECTOR, 'button.e-button--type-primary:nth-child(1)').click()
+        driver.find_element(By.XPATH, '//div[@class="e-consents-alert__actions"]/button[@type="button"]').click()
 
         # 1 Polecenie "Zarejestruj się"
         driver.find_element(By.XPATH, '//a[@href="https://www.eobuwie.com.pl/customer/account/create/"]').click()
@@ -61,7 +61,7 @@ class RegistrationTest(unittest.TestCase):
 
 
         # Poczekaj, aby zobaczyć co się dzieje
-        sleep(10)
+        sleep(5)
 
     def tearDown(self):
         self.driver.quit()
