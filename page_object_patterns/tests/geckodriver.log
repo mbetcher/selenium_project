@@ -1,0 +1,594 @@
+1650810564989	geckodriver	INFO	Listening on 127.0.0.1:34497
+1650810565487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile68Okk1"
+1650810566286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile68Okk1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36407/devtools/browser/2fc03161-0ed7-4e4e-8eaf-fc05d466c30b
+1650810568770	Marionette	INFO	Listening on port 41963
+Read port: 41963
+1650810568852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/skin/frontend/snowdog/v2/dist/js/615b975c7ac0668fd3c0.min.js, line 1: Error: Request aborted
+JavaScript error: https://www.eobuwie.com.pl/skin/frontend/snowdog/v2/dist/js/615b975c7ac0668fd3c0.min.js, line 1: Error: Request aborted
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650810583573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650810592262	Marionette	INFO	Stopped listening on port 41963
+1650819444302	geckodriver	INFO	Listening on 127.0.0.1:59329
+1650819444313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2pV4DD"
+1650819445097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2pV4DD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48175/devtools/browser/33e5edbe-9bba-49fc-ad13-399041ff7372
+1650819448117	Marionette	INFO	Listening on port 37795
+Read port: 37795
+1650819448174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650819479367	Marionette	INFO	Stopped listening on port 37795
+1650819504523	geckodriver	INFO	Listening on 127.0.0.1:55895
+1650819504535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3FZ37X"
+1650819505453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3FZ37X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56983/devtools/browser/dd58519a-0fc2-430d-a8a0-83418088ffb9
+1650819508995	Marionette	INFO	Listening on port 33259
+Read port: 33259
+1650819509138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+1650819523432	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650819525044	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650819537158	Marionette	INFO	Stopped listening on port 33259
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650819564633	geckodriver	INFO	Listening on 127.0.0.1:44779
+1650819564639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYnGlZt"
+1650819565568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYnGlZt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35655/devtools/browser/b539b33f-4565-4a0f-893f-a2362b8b3b45
+1650819568641	Marionette	INFO	Listening on port 40439
+Read port: 40439
+1650819568702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650819582490	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650819594943	Marionette	INFO	Stopped listening on port 40439
+1650819634821	geckodriver	INFO	Listening on 127.0.0.1:41501
+1650819634827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCIGaJA"
+1650819635783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCIGaJA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56281/devtools/browser/f363148a-0d88-4913-a81c-d47893112b2b
+1650819638258	Marionette	INFO	Listening on port 34197
+Read port: 34197
+1650819638367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650819652355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650819676922	Marionette	INFO	Stopped listening on port 34197
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1650819830795	geckodriver	INFO	Listening on 127.0.0.1:60487
+1650819830810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNAZFuR"
+1650819831592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNAZFuR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53555/devtools/browser/4548cb30-f742-433f-8bc3-b5115b2f32c1
+1650819834539	Marionette	INFO	Listening on port 44223
+Read port: 44223
+1650819834656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650819867378	Marionette	INFO	Stopped listening on port 44223
+JavaScript error: resource://gre/modules/Push.jsm, line 318: TypeError: this.pushManager._window is null
+JavaScript error: resource://gre/modules/PushComponents.jsm, line 102: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "this.pushManager._window is null" {file: "resource://gre/modules/Push.jsm" line: 318}]'[JavaScript Error: "this.pushManager._window is null" {file: "resource://gre/modules/Push.jsm" line: 318}]' when calling method: [nsIPushSubscriptionCallback::onPushSubscription]
+1650819915838	geckodriver	INFO	Listening on 127.0.0.1:38143
+1650819915855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee2oC0S"
+1650819916742	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee2oC0S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44299/devtools/browser/2be790dd-5c63-4dea-96a3-90d937321caf
+1650819919732	Marionette	INFO	Listening on port 42875
+Read port: 42875
+1650819919790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650819948608	Marionette	INFO	Stopped listening on port 42875
+1650820013338	geckodriver	INFO	Listening on 127.0.0.1:55449
+1650820013345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZYbi8Z"
+1650820014223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZYbi8Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39747/devtools/browser/11385aa8-32a2-4d94-b664-f02207eeba7e
+1650820016883	Marionette	INFO	Listening on port 42861
+Read port: 42861
+1650820017001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+1650820031803	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650820059241	Marionette	INFO	Stopped listening on port 42861
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650820204625	geckodriver	INFO	Listening on 127.0.0.1:36841
+1650820204636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePPFIgE"
+1650820205539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePPFIgE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45221/devtools/browser/d239bb05-c960-4ae5-b494-af12b853ff1f
+1650820208220	Marionette	INFO	Listening on port 35973
+Read port: 35973
+1650820208276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 4 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 4 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650820261021	Marionette	INFO	Stopped listening on port 35973
+1650820342187	geckodriver	INFO	Listening on 127.0.0.1:60913
+1650820342203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileb9miZ6"
+1650820342946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb9miZ6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41423/devtools/browser/f29996ab-7b4c-44b6-a31b-9db231357684
+1650820345616	Marionette	INFO	Listening on port 41021
+Read port: 41021
+1650820345651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 4 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+1650820358733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 4 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650820360151	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650820396312	Marionette	INFO	Stopped listening on port 41021
+1650820482569	geckodriver	INFO	Listening on 127.0.0.1:52347
+1650820482582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenckCt7"
+1650820483383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenckCt7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54307/devtools/browser/794b52f2-e8ac-4e42-abc8-f4d93c05d2ab
+1650820486118	Marionette	INFO	Listening on port 45453
+Read port: 45453
+1650820486224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650820537834	Marionette	INFO	Stopped listening on port 45453
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650820655949	geckodriver	INFO	Listening on 127.0.0.1:55769
+1650820655963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3vKyTh"
+1650820656998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3vKyTh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37753/devtools/browser/c232776f-39a1-4caf-a900-e195573678ae
+1650820659855	Marionette	INFO	Listening on port 40193
+Read port: 40193
+1650820659921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+1650820673516	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650820677892	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650820679791	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650820708254	Marionette	INFO	Stopped listening on port 40193
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650820930060	geckodriver	INFO	Listening on 127.0.0.1:36825
+1650820930066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilednWKQz"
+1650820930842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilednWKQz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56157/devtools/browser/64a2f4af-feb8-432f-8180-a38adcc13c0b
+1650820933639	Marionette	INFO	Listening on port 44763
+Read port: 44763
+1650820933714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/skin/frontend/snowdog/v2/dist/js/615b975c7ac0668fd3c0.min.js, line 1: Error: Request aborted
+JavaScript error: https://www.eobuwie.com.pl/skin/frontend/snowdog/v2/dist/js/615b975c7ac0668fd3c0.min.js, line 1: Error: Request aborted
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650820946194	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650820960551	Marionette	INFO	Stopped listening on port 44763
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650820973755	geckodriver	INFO	Listening on 127.0.0.1:54619
+1650820973763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei9WepS"
+1650820974679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei9WepS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48791/devtools/browser/f4ab25a3-f36c-473b-9d52-a8dea76eaa9e
+1650820977378	Marionette	INFO	Listening on port 34947
+Read port: 34947
+1650820977508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650821007494	Marionette	INFO	Stopped listening on port 34947
+1650821035578	geckodriver	INFO	Listening on 127.0.0.1:36249
+1650821035591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqZQrmn"
+1650821036354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqZQrmn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53127/devtools/browser/f3b96469-1cc5-4069-8930-981797e8eea2
+1650821039323	Marionette	INFO	Listening on port 33741
+Read port: 33741
+1650821039435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650821053890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+1650821086646	Marionette	INFO	Stopped listening on port 33741
+1650821151801	geckodriver	INFO	Listening on 127.0.0.1:49823
+1650821151824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileObVf1e"
+1650821152682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileObVf1e/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55877/devtools/browser/b3620d28-f38b-48cb-8089-d2c27174cdb5
+1650821156069	Marionette	INFO	Listening on port 43105
+Read port: 43105
+1650821156184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+1650821167927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650821172123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650821205885	Marionette	INFO	Stopped listening on port 43105
+1650821346556	geckodriver	INFO	Listening on 127.0.0.1:37699
+1650821346565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileULsqxX"
+1650821347384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileULsqxX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39223/devtools/browser/8a4ce01d-2875-4a73-8b62-442ae30aa1bb
+1650821350349	Marionette	INFO	Listening on port 40489
+Read port: 40489
+1650821350432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+1650821360254	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650821397126	Marionette	INFO	Stopped listening on port 40489
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650821468779	geckodriver	INFO	Listening on 127.0.0.1:42549
+1650821468795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2I1Bph"
+1650821469676	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2I1Bph/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42399/devtools/browser/905137f9-ea25-473a-891a-7b3fb854f3d0
+1650821472526	Marionette	INFO	Listening on port 43099
+Read port: 43099
+1650821472629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650821529119	Marionette	INFO	Stopped listening on port 43099
+1650821611745	geckodriver	INFO	Listening on 127.0.0.1:57285
+1650821611758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT1YVnZ"
+1650821612548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT1YVnZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52387/devtools/browser/69b569b9-a8b8-43e7-8fe2-e8742ee66e66
+1650821615501	Marionette	INFO	Listening on port 41377
+Read port: 41377
+1650821615606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 4 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 4 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650821662761	Marionette	INFO	Stopped listening on port 41377
+1650821778908	geckodriver	INFO	Listening on 127.0.0.1:57125
+1650821778920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesOb7fD"
+1650821779707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesOb7fD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40189/devtools/browser/208d8deb-d75a-4f72-8707-5ffcdd35bd89
+1650821782304	Marionette	INFO	Listening on port 42023
+Read port: 42023
+1650821782352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650821838108	Marionette	INFO	Stopped listening on port 42023
+1650822288285	geckodriver	INFO	Listening on 127.0.0.1:37195
+1650822288293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKE00Td"
+1650822289078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKE00Td/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55071/devtools/browser/b7f53919-4b00-4758-8bf2-17c44581d105
+1650822291334	Marionette	INFO	Listening on port 37325
+Read port: 37325
+1650822291423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.eobuwie.com.pl/skin/frontend/snowdog/v2/dist/js/615b975c7ac0668fd3c0.min.js, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 509 > injectedScript, line 1: TypeError: can't convert undefined to object
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650822336996	Marionette	INFO	Stopped listening on port 37325
+1650822761503	geckodriver	INFO	Listening on 127.0.0.1:58123
+1650822761513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiF4qbY"
+1650822762242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiF4qbY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38949/devtools/browser/92ee9e46-2d7e-4179-a21d-6f2491a0545d
+1650822764620	Marionette	INFO	Listening on port 34503
+Read port: 34503
+1650822764651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650822768891	Marionette	INFO	Stopped listening on port 34503
+1650822780933	geckodriver	INFO	Listening on 127.0.0.1:32771
+1650822780938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLsJNKA"
+1650822781618	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLsJNKA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38873/devtools/browser/a9984aa4-f8cc-497b-b23d-7dc0185548fe
+1650822783740	Marionette	INFO	Listening on port 38671
+Read port: 38671
+1650822783776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650822799263	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650822820536	Marionette	INFO	Stopped listening on port 38671
+1650822943034	geckodriver	INFO	Listening on 127.0.0.1:50985
+1650822943041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevztKTJ"
+1650822943867	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevztKTJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50153/devtools/browser/7f60ea8b-f40b-463c-a5bd-04b92b988b00
+1650822946294	Marionette	INFO	Listening on port 34399
+Read port: 34399
+1650822946373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650822962287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/torebki.html?searchterm=torebka line 509 > injectedScript, line 1: TypeError: can't convert undefined to object
+1650822979014	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/torebki.html?searchterm=torebka line 1 > injectedScript, line 3: TypeError: document.querySelector(...) is null
+1650822994630	Marionette	INFO	Stopped listening on port 34399
+1650823197577	geckodriver	INFO	Listening on 127.0.0.1:35887
+1650823197582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZr6I6o"
+1650823198390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZr6I6o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44363/devtools/browser/9f3994b6-7cc2-4e55-9cb6-55d24fe624d3
+1650823200942	Marionette	INFO	Listening on port 41583
+Read port: 41583
+1650823201018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas&frontendContext=JTdCJTIyc2VhcmNoRGF0YSUyMiUzQSU3QiUyMnNlYXJjaFVybCUyMiUzQSUyMi8lMjIlMkMlMjJzZWFyY2hRdWVyeSUyMiUzQSUyMmJ1dHklMjBhZGlkYXMlMjIlMkMlMjJzZWFyY2hRdWVyeUNvbXBsZXhpdHklMjIlM0EyJTJDJTIyc2VhcmNoUGFnZVR5cGUlMjIlM0ElMjJob21lJTIyJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnMlMjIlM0ElN0IlMjJzZWFyY2hTdWdnZXN0aW9uc1VzZSUyMiUzQWZhbHNlJTJDJTIyc2VhcmNoU3VnZ2VzdGlvbnNUeXBlJTIyJTNBbnVsbCUyQyUyMnNlYXJjaFN1Z2dlc3Rpb25zVGFyZ2V0JTIyJTNBbnVsbCU3RCU3RCU3RA== line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650823216681	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/buty-adidas-superstar-j-gz9097-ftwwht-hazcor-ftwwht.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/torebki.html?searchterm=torebka line 509 > injectedScript, line 1: TypeError: can't convert undefined to object
+1650823233454	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/torebki.html?searchterm=torebka line 1 > injectedScript, line 3: TypeError: document.querySelector(...) is null
+1650823236523	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/torebka-patrizia-pepe-8b0018-a053-k103-nero.html line 1 > injectedScript, line 196: TypeError: tytul(...) is undefined
+1650823242275	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650823250438	Marionette	INFO	Stopped listening on port 41583
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650824028047	geckodriver	INFO	Listening on 127.0.0.1:35663
+1650824028058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN7EPoh"
+1650824028818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN7EPoh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53741/devtools/browser/a59efb40-b12f-4223-af77-772445643139
+1650824031002	Marionette	INFO	Listening on port 42061
+Read port: 42061
+1650824031084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 509 > injectedScript, line 1: TypeError: can't convert undefined to object
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650824073890	Marionette	INFO	Stopped listening on port 42061
+1650824477501	geckodriver	INFO	Listening on 127.0.0.1:45639
+1650824477515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3Uj5Xc"
+1650824478254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Uj5Xc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46705/devtools/browser/f01021ce-e84a-4b1a-9446-41e90c37f211
+1650824481020	Marionette	INFO	Listening on port 35215
+Read port: 35215
+1650824481066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 509 > injectedScript, line 1: TypeError: can't convert undefined to object
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 1 > injectedScript, line 181: TypeError: dataLayer[3].ecommerce is undefined
+JavaScript error: https://www.eobuwie.com.pl/kategoria:damskie:meskie:dzieciece:sport/producenci:adidas-adidas_originals-adidas_performance.html?searchterm=buty%20adidas line 1 > injectedScript, line 224: TypeError: dataLayer[3].ecommerce is undefined
+1650824496667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650824499502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eobuwie.com.pl"
+JavaScript error: https://www.eobuwie.com.pl/torebki.html?searchterm=torebka line 509 > injectedScript, line 1: TypeError: can't convert undefined to object
+1650824515705	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.eobuwie.com.pl/torebki.html?searchterm=torebka line 1 > injectedScript, line 3: TypeError: document.querySelector(...) is null
+1650824519106	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650824533724	Marionette	INFO	Stopped listening on port 35215
